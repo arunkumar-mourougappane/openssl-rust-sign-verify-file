@@ -1,0 +1,8 @@
+[package]
+name = "signer_test"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+openssl = { version = "0.10.64", features = ["vendored"] }
+project-root = "0.2.2"
