@@ -4,5 +4,5 @@ version = "0.2.0"
 edition = "2021"
 
 [dependencies]
-openssl = { version = "0.10.64", features = ["vendored"] }
+openssl = { version = "0.10.66", features = ["vendored"] }
 project-root = "0.2.2"
